@@ -36,14 +36,3 @@ Pour utiliser l'application, exécutez la commande suivante :
 ```bash
 python stegano.py
 ```
-
----
-
-## Structure du projet
-
-Voici l'organisation des fichiers du projet :  
-```plaintext
-stegano/
-├── input/        # Dossier contenant les images d'entrée
-├── output/       # Dossier pour stocker les images modifiées
-└── stegano.py    # Code source principal
